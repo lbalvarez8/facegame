@@ -3,6 +3,8 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
     font-family: 'Bungee Inline', 'Londrina Solid', cursive;
+    width: auto;
+    height: auto;
   }
   
   body {
