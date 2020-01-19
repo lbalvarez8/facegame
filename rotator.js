@@ -1,5 +1,4 @@
 
-document.body.style.zoom="133%"
 
 var bChange = document.getElementById("buttonChange");
 
