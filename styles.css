@@ -1,0 +1,45 @@
+/*------Global ----- */
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Bungee Inline', 'Londrina Solid', cursive;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    text-align: center;
+  }
+  #flipHair{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #flipEyes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #flipNose{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #flipMouth{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #flipNeck{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
